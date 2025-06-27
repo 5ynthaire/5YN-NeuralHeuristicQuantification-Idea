@@ -56,6 +56,10 @@ The following examples illustrate how frameworks apply NHQ’s principle of heur
 
 These examples showcase NHQ’s ability to enable frameworks that quantify unquantifiable concepts or embed metrics for actionable outcomes, advancing beyond conventional scoring.
 
+### Future Applications
+
+NHQ's hollistic output allows leaping over limitations of a rules-based approach, the latter requiring infinite rules to account for every factor and scenario, otherwise risking blindspots causing counterintuitive outcomes. NHQ has potentially broad applications to arbitrating disputes or judging fairness in complex scenarios where rigid rules fail.
+
 ## Conclusion
 
 Neural Heuristic Quantification (NHQ) offers a pioneering methodology for frameworks to quantify abstract concepts or internalize metrics, redefining human-AI synergy in fields like strategy, design, and creativity. Emerging from practical applications, NHQ empowers creators and researchers to build transformative processes. To explore NHQ further or apply it to your work, DM [@5ynthaire] to riff.
