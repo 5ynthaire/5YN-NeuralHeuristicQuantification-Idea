@@ -1,4 +1,4 @@
-﻿# Neural Heuristic Quantification
+# Neural Heuristic Quantification
 
 ## Overview
 This repository presents the Neural Heuristic Quantification(NHQ) idea, a novel methodology leveraging large language models (LLMs) to enable frameworks for quantifying complex, abstract concepts—such as cultural values, creative impact, or decision clarity—through heuristic, neural net-based scoring, as introduced in my article [link to be added]. Emerging from practical applications, NHQ addresses the challenge of evaluating multidimensional phenomena by allowing frameworks to quantify unquantifiable concepts or internalize metrics to produce transformative, user-facing outcomes. This methodology empowers creators, strategists, and researchers to redefine human-AI synergy in conceptual analysis.
@@ -46,11 +46,11 @@ The following examples illustrate how frameworks apply NHQ’s principle of heur
 
 - Cultural analysis frameworks apply NHQ to assign percentages to abstract values (e.g., innovation: 40%, collaboration: 30%) based on qualitative data, enabling strategic alignment without predefined metrics. For example, an organization’s mission and behaviors might yield weightings that guide leadership priorities.  
 
-- LLM BlazeScorer (https://github.com/5ynthaire/5YN-LLM-BlazeScorer) applies NHQ to score human-LLM threads for abstract qualities like innovation and transcendence (e.g., 8.5/10), producing user-facing metrics that demonstrate heuristic quantification while bridging to internalized frameworks. Its pushback mechanism refines scores, aligning with NHQ’s calibration step.  
+- [LLM BlazeScorer](https://github.com/5ynthaire/5YN-LLM-BlazeScorer) applies NHQ to score human-LLM threads for abstract qualities like innovation and transcendence (e.g., 8.5/10), producing user-facing metrics that demonstrate heuristic quantification while bridging to internalized frameworks. Its pushback mechanism refines scores, aligning with NHQ’s calibration step.  
+
+- [Tangram Decision Driver](https://github.com/5ynthaire/5YN-TangramDecisionDriver-LLM-Enhancement) applies NHQ during decision-making workflows to internalize question impact scores (e.g., 25%), generating user-facing decision plans (e.g., a startup’s market entry spec) without exposing metrics. By iteratively scoring questions, it delivers structured outcomes, transforming decision-making processes.  
 
 <!--
-- The Div/Con framework applies NHQ to internalize question impact scores (e.g., 25%), generating user-facing decision plans (e.g., a startup’s market entry spec) without exposing metrics. By iteratively scoring questions, it delivers structured outcomes, transforming decision-making processes.  
-
 - The Elegance Framework applies NHQ to internalize Compression Scores (CS = C / O), producing user-facing design prioritizations (e.g., selecting a car design) without revealing metrics. Hidden scores drive refined or prioritized designs, enhancing creative workflows.  
 -->
 
