@@ -50,10 +50,6 @@ The following examples illustrate how frameworks apply NHQ’s principle of heur
 
 - [Tangram Decision Driver](https://github.com/5ynthaire/5YN-TangramDecisionDriver-LLM-Enhancement) applies NHQ during decision-making workflows to internalize question impact scores (e.g., 25%), generating user-facing decision plans (e.g., a startup’s market entry spec) without exposing metrics. By iteratively scoring questions, it delivers structured outcomes, transforming decision-making processes.  
 
-<!--
-- The Elegance Framework applies NHQ to internalize Compression Scores (CS = C / O), producing user-facing design prioritizations (e.g., selecting a car design) without revealing metrics. Hidden scores drive refined or prioritized designs, enhancing creative workflows.  
--->
-
 These examples showcase NHQ’s ability to enable frameworks that quantify unquantifiable concepts or embed metrics for actionable outcomes, advancing beyond conventional scoring.
 
 ## Conclusion
