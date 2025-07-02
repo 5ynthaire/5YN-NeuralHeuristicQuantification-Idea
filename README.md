@@ -1,7 +1,7 @@
 # Neural Heuristic Quantification
 
 ## Overview
-This repository presents the Neural Heuristic Quantification(NHQ) idea, a novel methodology leveraging large language models (LLMs) to enable frameworks for quantifying complex, abstract concepts—such as cultural values, creative impact, or decision clarity—through heuristic, neural net-based scoring, as introduced in my article [link to be added]. Emerging from practical applications, NHQ addresses the challenge of evaluating multidimensional phenomena by allowing frameworks to quantify unquantifiable concepts or internalize metrics to produce transformative, user-facing outcomes. This methodology empowers creators, strategists, and researchers to redefine human-AI synergy in conceptual analysis.
+This repository presents the Neural Heuristic Quantification(NHQ) idea, a novel methodology leveraging large language models (LLMs) to enable frameworks for quantifying complex, abstract concepts—such as cultural values, creative impact, or decision clarity—through heuristic, neural net-based scoring<!--, as introduced in my article [link to be added]-->. Emerging from practical applications, NHQ addresses the challenge of evaluating multidimensional phenomena by allowing frameworks to quantify unquantifiable concepts or internalize metrics to produce transformative, user-facing outcomes. This methodology empowers creators, strategists, and researchers to redefine human-AI synergy in conceptual analysis.
 
 ## About
 
